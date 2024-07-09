@@ -1,7 +1,7 @@
 // Declaring a variable
-x = 10;
-y = 15;
 var score;
+var playername;
+var number;
 
 /* Further Adventures
  *
