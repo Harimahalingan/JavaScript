@@ -1,6 +1,7 @@
 // Using console.log to display information
 
 console.log("welcome to MCA!");
+console.log("KGiSL");
 
 
 /* Further Adventures
