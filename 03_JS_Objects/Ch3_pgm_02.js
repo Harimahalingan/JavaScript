@@ -14,8 +14,10 @@ console.log(book1Title + " by " + book1Author);
 console.log(book2Title + " by " + book2Author);
 console.log(book3Title + " by " + book3Author);
 
-
-
+var bookTitle = "Northern Lights";
+var bookAuthor = "Philip Pullman";
+console.log("There are four book including a new book");
+console.log(bookTitle + " by " + bookAuthor);
 /* Further Adventures
  *
  * 1) Add a fourth book.

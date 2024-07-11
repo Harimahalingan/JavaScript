@@ -1,6 +1,7 @@
 // A player object
 
 var player;
+var player2;
 
 player = {
     name: "Kandra",
@@ -13,6 +14,17 @@ console.log(player.name);
 console.log(player.name + " is in " + player.place);
 console.log(player.name + " has health " + player.health);
 console.log("Items: " + player.items);
+
+player2 = {
+    name: "Alex",
+    health: 75,
+    place: "The Hobbit",
+    items: "A rusty key, The Sword of Destiny"
+};
+console.log(player2.name);
+console.log(player2.name + " is in " + player2.place);
+console.log(player2.name + " has health " + player2.health);
+console.log("Items: " + player2.items);
 
 
 

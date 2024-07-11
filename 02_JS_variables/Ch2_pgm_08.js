@@ -10,6 +10,10 @@ console.log("New score: " + score);
 
 console.log("Way to go!");
 
+console.log("your a successfull splat");
+score = score + 100;
+console.log("New score: " + score);
+console.log("congratulation! you are a kumquat splat champion!");
 
 
 /* Further Adventures

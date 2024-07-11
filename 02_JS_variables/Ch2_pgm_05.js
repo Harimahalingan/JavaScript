@@ -8,7 +8,17 @@ console.log(message);
 message = 'Congratulations! Your tweet has won a prize...';
 console.log(message);
 
+message = "welcome to Master of computer application";
+console.log(message);
 
+message ="Welcome to"+" Master of computer application";
+console.log(message);
+
+message = "congratulations!" + "your tweet has" + "won a prize..";
+console.log(message);
+
+message = "welcome to";
+console.log(message + "MCA");
 
 /* Further Adventures
  *
